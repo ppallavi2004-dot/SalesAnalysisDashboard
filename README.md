@@ -1,7 +1,7 @@
 #SalesAnalysisDashboard
- ##Overview
+##Overview
 The SalesAnalysisDashboard is a Power BI project built to analyze sales performance across products, categories, and channels. It combines transactional and master data to highlight trends, profitability, and customer behavior.
- ##Features
+##Features
 •	Visualizes daily and monthly sales trends.
 •	Compares Direct Sales, Online, and Wholesaler channels.
 •	Tracks payment modes (Cash vs. Online).
